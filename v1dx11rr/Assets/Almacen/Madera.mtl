@@ -1,0 +1,25 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl MaderaPalo
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.114935 0.018694 0.005854
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Wood_vanished
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Documents\\Blender\\Scenes\\assets\\materials\\wood_vanished_79e6f957-b6b2-4110-a6ae-f334c932b113\\textures\\wood_vanished_BaseColor.png
+map_Ns C:\\Users\\Luis\\Documents\\Blender\\Scenes\\assets\\materials\\wood_vanished_79e6f957-b6b2-4110-a6ae-f334c932b113\\textures\\wood_vanished_Roughness.png
+refl C:\\Users\\Luis\\Documents\\Blender\\Scenes\\assets\\materials\\wood_vanished_79e6f957-b6b2-4110-a6ae-f334c932b113\\textures\\wood_vanished_Metallic.png

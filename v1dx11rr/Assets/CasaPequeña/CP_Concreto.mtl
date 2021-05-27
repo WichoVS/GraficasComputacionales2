@@ -1,0 +1,25 @@
+# Blender MTL File: 'CasaPequeña.blend'
+# Material Count: 2
+
+newmtl Concrete_wood_sheet
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Documents\\Blender\\Scenes\\assets\\materials\\concrete_wood_sheet_645200fa-1118-40df-95e2-8d38094eb842\\textures\\concrete_wood_sheet_BaseColor.png
+map_Ns C:\\Users\\Luis\\Documents\\Blender\\Scenes\\assets\\materials\\concrete_wood_sheet_645200fa-1118-40df-95e2-8d38094eb842\\textures\\concrete_wood_sheet_Roughness.png
+refl C:\\Users\\Luis\\Documents\\Blender\\Scenes\\assets\\materials\\concrete_wood_sheet_645200fa-1118-40df-95e2-8d38094eb842\\textures\\concrete_wood_sheet_Metallic.png
+
+newmtl Piedra
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.252943 0.252943 0.252943
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
